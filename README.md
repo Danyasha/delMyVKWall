@@ -13,3 +13,5 @@ https://oauth.vk.com/authorize?client_id=6770459&display=page&redirect_uri=https
 Если вы все таки не сохранили поле user_id, то откройте любую свою фотографию ВК, откроется ссылка вида: 
 https://vk.com/durov?z=photo{ваш user_id}_456264771%2Falbum1_0%2Frev
 скопируйте его. 
+
+По вопросам можете писать мне ВК https://vk.com/yadanyasha
