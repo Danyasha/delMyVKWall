@@ -16,3 +16,4 @@ while (posts):
     for i in posts_id:
         vk.wall.delete(owner_id = owner_id, post_id = i)
 print('Done')
+input()
